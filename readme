@@ -1,0 +1,7 @@
+band1.dat- band6.dat为TM原始数据；
+Row/ LINE  = 5733;
+Column = 6503.
+太阳天顶角=25°
+
+
+Band1_6.raw文件，分别为TM的1、2、3、4、6等5个波段的原始，BSQ存储。
